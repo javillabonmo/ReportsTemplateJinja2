@@ -1,0 +1,8 @@
+Jinja2==3.1.5
+python-docx==1.1.2
+pandas==2.2.3
+numpy==2.2.1
+matplotlib==3.10.0
+docxcompose==1.4.0
+docxtpl==0.19.0
+pytest==8.3.4
